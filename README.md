@@ -1,2 +1,23 @@
-# RTL-Design-and-Verification
-My RTL Design and Verification journey with Verilog, SystemVerilog, UVM, protocols, and projects.
+# RTL Design and Verification
+
+This repository contains my RTL design and verification journey using Verilog HDL.
+
+## Verilog HDL
+
+- Digital Logic Design
+- Combinational Circuits
+- Sequential Circuits
+- Shift Registers
+- Counters
+- FSM
+- RAM
+- FIFO
+- RTL Design Projects
+- Testbenches
+
+## Tools
+
+- Verilog HDL
+- Vivado
+- XSim
+- Git & GitHub
