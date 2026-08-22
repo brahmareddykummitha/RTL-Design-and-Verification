@@ -4,7 +4,7 @@ This repository contains my RTL design and verification journey using Verilog HD
 
 ## Verilog HDL
 
-- Digital Logic Design
+- Basic Gates
 - Combinational Circuits
 - Sequential Circuits
 - Shift Registers
